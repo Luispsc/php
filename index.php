@@ -1,9 +1,6 @@
 <?php
 
-     echo "ola mundo 2020";
-
-
+ echo "Olá mundo 123!";
+ echo "Olá luís!";
 
 ?>
-
-
