@@ -1,11 +1,6 @@
 <?php
 
      echo "ola mundo 1547";
-     echo "olá teste";
-
-
-
+     echo "olá luis e aluno teste";
 
 ?>
-
-
